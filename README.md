@@ -1,4 +1,4 @@
-                                      <----------Covid Bed Slot Booking System------>
+                                        <----------Covid Bed Slot Booking System------>
  
  
 Description:
