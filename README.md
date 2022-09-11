@@ -14,10 +14,14 @@ Our Final Project submission  zipped folder includes:
 
 
 
-
 Name of Project:    Covid Bed Slot Booking System
+
 Used Language:      Python, Flask
+
 Used Database:      My SQL
+
 Interface Design:   Bootstrap, JavaScript, HTML, Xampp 
+
 Browser:                 Opera Mozilla Google Chrome IE8, 
+
 Software:                 WAMP/ XAMPP/ LAMP/MAMP
